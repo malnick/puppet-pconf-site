@@ -20,4 +20,5 @@ mod 'mesos',              :git => 'git@github.com:deric/puppet-mesos.git'
 mod 'puppetmaster',       :git => 'git@github.com:malnick/puppet-puppetmaster.git'
 mod 'profiles',           :git => 'git@github.com:malnick/puppet-pconf-profiles.git'
 mod 'roles',              :git => 'git@github.com:malnick/pconf-puppet-roles.git'
+mod 'custom',             :git => 'git@github.com:malnick/custom_shit.git'
 
