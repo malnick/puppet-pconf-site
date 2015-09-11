@@ -18,6 +18,6 @@ mod 'garethr/docker'
 mod 'marathon_template',  :git => 'git@github.com:malnick/puppet-marathon_template.git'
 mod 'mesos',              :git => 'git@github.com:deric/puppet-mesos.git'
 mod 'puppetmaster',       :git => 'git@github.com:malnick/puppet-puppetmaster.git'
-mod 'profiles',           :git => 'git@github.com:malnick/pconf-puppet-profiles.git'
+mod 'profiles',           :git => 'git@github.com:malnick/puppet-pconf-profiles.git'
 mod 'roles',              :git => 'git@github.com:malnick/pconf-puppet-roles.git'
 
